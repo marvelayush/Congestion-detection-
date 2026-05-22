@@ -284,7 +284,7 @@ During execution, you should see lines like:
 - `TCP RTT: ...`
 - `Throughput: ... Mbps`
 - `State: NORMAL` or `State: CONGESTED`
-- ![Project Demo]()
+- ![Project Demo](7th.png)
 
 ---
 
