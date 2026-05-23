@@ -1,8 +1,8 @@
-# Congestion Detection System
+# 🌐 Congestion Detection System
 
 ---
 
-## Overview
+## 📘 Overview
 
 This project simulates a small congestion detection pipeline. It continuously checks the network path to a target machine and measures:
 
@@ -20,7 +20,7 @@ This makes the project a good example of real-time network performance monitorin
 
 ---
 
-## Features
+## ✨ Features
 
 - ICMP latency measurement
 - UDP latency measurement
@@ -35,7 +35,7 @@ This makes the project a good example of real-time network performance monitorin
 
 ---
 
-## What this project does
+## 📌 What this project does
 
 The project repeatedly:
 
@@ -50,7 +50,7 @@ The project repeatedly:
 
 ---
 
-## Requirements
+## ⚙️ Requirements
 
 Install these before running the project:
 
