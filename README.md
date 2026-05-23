@@ -69,7 +69,7 @@ pip install matplotlib numpy pandas scikit-learn
 ```
 
 ---
-
+### 🚀 TWO MODES OF RUNNING THE PROJECT 
 ## iPerf3 setup
 
 Download iPerf3 for Windows, extract it, and keep `iperf3.exe` somewhere easy to find.
@@ -84,7 +84,7 @@ r"C:\Users\YourName\Desktop\iperf-3.21-win64\iperf3.exe"
 
 ---
 
-## Configuration: single-laptop mode
+## 1. Configuration: single-laptop mode
 
 Use this mode when the client and server are on the same laptop.
 
@@ -123,7 +123,7 @@ And inside the subprocess command, keep:
 
 ---
 
-## Configuration: two-laptop demo
+## 2. Configuration: two-laptop demo
 
 Use this mode when you want to demonstrate the project across two laptops.
 
@@ -177,7 +177,7 @@ If Windows Firewall asks for permission, allow access.
 
 ---
 
-## How to run the project
+## ⌨️ How to run the project
 
 ### 1) Extract the ZIP file
 
